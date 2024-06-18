@@ -1,3 +1,4 @@
+//Franz Regir - s86074, Radmir Mullagaliev - s85138
 //We always have to include the library
 #include "LedControl.h"
 #include <LiquidCrystal.h>
